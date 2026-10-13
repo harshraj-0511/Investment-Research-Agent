@@ -1,0 +1,9 @@
+venv/
+chroma_db/
+blobs/
+manifests/
+manifests-v2/
+metadata/
+__pycache__/
+*.pyc
+.env
